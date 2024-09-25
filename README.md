@@ -63,7 +63,9 @@ python gesture_mouse_control.py
 **Project Structure 📂**
 
 Hand-Gesture-Mouse-Control/
+
 │
+
 ├── Hand_tracking_module.py    # Hand tracking utility module
 
 ├── mouse_tracking.py          # Main script to run the project
