@@ -23,6 +23,7 @@ This project uses hand gestures to control the mouse cursor and simulate mouse c
 4.The mouse movements are smoothed using an exponential moving average for fluid movement.
 
 **Technologies Used 🛠️**
+
 **Python:** Core programming language.
 **OpenCV:** For video capture and processing.
 **MediaPipe:** For hand landmark detection.
